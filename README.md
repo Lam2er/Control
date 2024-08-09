@@ -1,2 +1,2 @@
 # Control
-Control PC remotely with Discord
+Control PC remotely with Discord bot
